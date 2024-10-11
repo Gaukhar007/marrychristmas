@@ -1,0 +1,48 @@
+body{
+    background-color:#F5F5F5;
+
+}
+.img{
+    size:10
+}
+.container{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    background-color: white;
+    border-radius: 40px;
+    height: 700px;
+}
+h3{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: 500;
+    color: rgb(5, 5, 85);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 300;
+    color: rgb(5,5,85);
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 400;
+    color: rgb(170, 166, 41);
+}
+.button{
+    background-color: rgb(5,5,85);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  
+}
+h6{
+    font-size: large;
+    color: white;
+}
